@@ -53,10 +53,16 @@ body{
     margin-left:5%;
 }
 
-a{
- color:#6D9EEB;
+a, href{
+ color:rgb(170, 183, 255);
 }
 
 .image{
-    width:60vw;
+    width:30vw;
 }
+
+.map{
+    width: 75vw;
+}
+
+
